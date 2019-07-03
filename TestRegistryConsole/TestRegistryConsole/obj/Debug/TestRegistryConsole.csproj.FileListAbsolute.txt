@@ -1,0 +1,7 @@
+C:\Users\TerencePillay\source\repos\TestRegistryConsole\TestRegistryConsole\bin\Debug\TestRegistryConsole.exe.config
+C:\Users\TerencePillay\source\repos\TestRegistryConsole\TestRegistryConsole\bin\Debug\TestRegistryConsole.exe
+C:\Users\TerencePillay\source\repos\TestRegistryConsole\TestRegistryConsole\bin\Debug\TestRegistryConsole.pdb
+C:\Users\TerencePillay\source\repos\TestRegistryConsole\TestRegistryConsole\obj\Debug\TestRegistryConsole.csprojAssemblyReference.cache
+C:\Users\TerencePillay\source\repos\TestRegistryConsole\TestRegistryConsole\obj\Debug\TestRegistryConsole.csproj.CoreCompileInputs.cache
+C:\Users\TerencePillay\source\repos\TestRegistryConsole\TestRegistryConsole\obj\Debug\TestRegistryConsole.exe
+C:\Users\TerencePillay\source\repos\TestRegistryConsole\TestRegistryConsole\obj\Debug\TestRegistryConsole.pdb
